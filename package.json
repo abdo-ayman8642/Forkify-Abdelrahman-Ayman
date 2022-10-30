@@ -1,0 +1,25 @@
+{
+  "name": "forkify-abdelrahman-ayman",
+  "version": "1.0.0",
+  "description": "recipe application",
+  "default": "index.html",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html --dist-dir ./dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abdo-ayman8642/Forkify-Abdelrahman-Ayman.git"
+  },
+  "author": "Abdelrahman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abdo-ayman8642/Forkify-Abdelrahman-Ayman/issues"
+  },
+  "homepage": "https://github.com/abdo-ayman8642/Forkify-Abdelrahman-Ayman#readme",
+  "devDependencies": {
+    "@parcel/transformer-image": "^2.0.0-rc.0",
+    "@parcel/transformer-sass": "^2.0.0-rc.0",
+    "parcel": "^2.0.0-rc.0"
+  }
+}
